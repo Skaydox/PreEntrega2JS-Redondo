@@ -1,6 +1,6 @@
 //Segunda pre-entrega CODERHOUSE Comisión 51610 Redondo Julián
 
-alert("Bienvenido a mi segunda pre-entrega :)")
+alert("Bienvenido a mi proyecto para la segunda pre-entrega de Javascript :)")
 
 let ropa = [];
 let loop = 1;
