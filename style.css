@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    background: linear-gradient(to bottom, black,gray);
+    padding: 32px;
+    text-align: center;
+    color:white;
+}
+h2 {text-align: center;}
+p {
+    padding: 8px 0px 8px 0px;
+    color: black;
+    font-size: 1rem;
+    text-align: center;
+}
